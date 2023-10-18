@@ -1,0 +1,17 @@
+.main {
+    text-align: center;
+}
+
+.main a {
+    text-decoration: none;
+}
+
+.main_link {
+    display: inline;
+    font-size: 1.5rem;
+}
+
+.next_link_exists {
+    border-right: 1px solid;
+    margin-right: 0.5rem;
+}

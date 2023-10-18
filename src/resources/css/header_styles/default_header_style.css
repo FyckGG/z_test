@@ -1,0 +1,15 @@
+.default_header {
+    background-color:  #adebad;
+    padding: 1rem;
+    left: 0;
+    top: 0;
+    width: 100%;
+    font-size: 1.5rem;
+    color:  #00802b;
+    z-index: 3;
+
+}
+
+.default_header a {
+    text-decoration: none;
+}

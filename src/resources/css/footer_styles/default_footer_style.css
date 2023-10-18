@@ -1,0 +1,9 @@
+.default_footer {
+    background-color:  #adebad;
+    padding: 1rem;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color:  #00802b;
+}

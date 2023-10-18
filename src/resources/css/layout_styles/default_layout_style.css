@@ -1,0 +1,13 @@
+.default_layout main {
+    width: 90vw;
+    margin: 0 auto;
+    padding: 1.5rem 1rem;
+    min-height: calc(100vh - 61px - 51px);
+    text-align: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
